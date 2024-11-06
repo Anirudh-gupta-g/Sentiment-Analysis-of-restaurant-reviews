@@ -1,12 +1,6 @@
 # Sentiment-Analysis-of-restaurant-reviews
 This project aims to perform sentiment analysis on restaurant reviews to classify them as positive or negative. By leveraging Natural Language Processing (NLP) techniques and a Naive Bayes classifier, the project provides insights into customer opinions and feedback trends, which can be valuable for businesses in improving customer satisfaction and making data-driven decisions.
 
-Project Structure
-data/: Contains the dataset, Restaurant_Reviews.tsv, used for training and testing.
-notebooks/: Jupyter notebooks for data preprocessing, model training, and evaluation.
-src/: Core scripts for data preprocessing, feature extraction, model training, and evaluation.
-README.md: Project overview and usage instructions.
-requirements.txt: List of required Python libraries for the project.
 Dataset
 The dataset consists of restaurant reviews with two columns:
 
